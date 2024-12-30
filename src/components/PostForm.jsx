@@ -56,6 +56,7 @@ const PostForm = ({ post, onSubmit, onCancel }) => {
         )}
       </div>
     </form>
+    
   );
 };
 
